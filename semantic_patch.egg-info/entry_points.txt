@@ -1,0 +1,2 @@
+[console_scripts]
+spatch = semantic_patch.cli:main
